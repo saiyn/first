@@ -1,1 +1,1 @@
-Git is fucking good.
+Git is fucking good version control system.
